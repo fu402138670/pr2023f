@@ -4,7 +4,7 @@
 - 111c51502
 - Chingyao Cy Fu
 
-## HW1 [](https://github.com/fu402138670/pr2023f/tree/main/hw01)
-## HW2 [](https://github.com/fu402138670/pr2023f/tree/main/hw02)
-## HW3 [](https://github.com/fu402138670/pr2023f/tree/main/hw03)
+## HW1 [繁體中文手寫字生成](https://github.com/fu402138670/pr2023f/tree/main/hw01)
+## HW2 [To be updated](https://github.com/fu402138670/pr2023f/tree/main/hw02)
+## HW3 [To be updated](https://github.com/fu402138670/pr2023f/tree/main/hw03)
 
