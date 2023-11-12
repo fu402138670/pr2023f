@@ -1,5 +1,10 @@
 # pr2023f
-### Reference: https://hackmd.io/@h93YMTP_SrK5XODkOdtuKg/B1Pe-JOGp
+### Reference: 
+- https://hackmd.io/@h93YMTP_SrK5XODkOdtuKg/B1Pe-JOGp
+- https://github.com/chiaoooo/Rotate_Crop_Page
+- https://github.com/chiaoooo/PngToTTF
+- https://github.com/Circle472/zi2zi_tensorflow
+
 - Homework of Pattern Recognition Class, 2023/11/11
 - 111c51502
 - Chingyao Cy Fu
